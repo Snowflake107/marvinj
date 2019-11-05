@@ -1,0 +1,19 @@
+{
+  "name": "marvinj",
+  "version": "1.0.0",
+  "description": "It is an exact copy of Gabriel Archanjo's project. Just making the package public.",
+  "main": "./marvinj/release/marvinj-1.0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lretondaro/marvinj.git"
+  },
+  "author": "Luis Retondaro <luis.retondaro@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lretondaro/marvinj/issues"
+  },
+  "homepage": "https://github.com/lretondaro/marvinj#readme"
+}
